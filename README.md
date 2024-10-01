@@ -13,7 +13,7 @@
     - Building Your Own Programming Language
 
 ### Beginner
-  - Complete Intro to Web Development, v3
+  - Complete Intro to Web Development, v3 `in-progress`
   - Getting Started With CSS
   - Getting Started With JS, v2
   - CSS Foundations
@@ -32,7 +32,7 @@
   - Complete Intro to React, v8
   - Web Performance Fundamentals
   - Ultimate CSS Grid & Layout Techniques, v3
-  - Full-Stack For Frontend Engineers
+  - Full-Stack For Frontend Engineers `in-progress`
   - Typescript 5+ Fundamentals, v4
   - Elective Coursework
     - Redux Fundamentals [feat. React]
