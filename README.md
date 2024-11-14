@@ -90,3 +90,17 @@
     - Data Visualization: First Steps
     - HTML Email Development, v2
     - Creative Coding with Canvas & WebGL
+
+#### Other Useful Courses (Not Ordered)
+- Overview Of Web Development
+  - Dr. Angela
+  - Colt Steel
+- HTML & CSS -> Jonas
+- Advanced CSS -> Jonas
+- JavaScript -> Jonas
+- Build 20 Web Projects with Vanilla JS -> Traversy
+- Aglorithms & Data Structures With JS
+- JavaScript: Understanding The Weired Parts
+- React.js -> Jonas
+- Node.js -> Jonas
+- Serverless Functions With Netlify -> John Smilga
