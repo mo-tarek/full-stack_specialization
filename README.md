@@ -1,4 +1,7 @@
 # Full-stack Specialization
+- Stay focused on fundamentals:
+    - HTML + CSS
+    - JavaScript
 ## Learning Paths
 ### Computer Science
   - Complete Intro to Computer Science
